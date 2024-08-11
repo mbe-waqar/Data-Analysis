@@ -1,0 +1,8 @@
+Vrinda Store Data Analysis
+
+1) Excel Data 
+2) Data Cleaning
+3) Data Processing
+4) Data Analysis
+5) Report
+6) Insights
